@@ -1,0 +1,5 @@
+setupRequired(ctrl_pool)
+setupRequired(ctrl_platform_lsstvc)
+setupRequired(ctrl_orca)
+setupRequired(ctrl_execute)
+#setupRequired()
